@@ -1,0 +1,447 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-112:12
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/11ae5caf55ef1cf94bfd5d41336146ba/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/754eb7f7098c2dd8de4d81e9ecd9f273/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4f1359ef0a0a9b6a9c70328087c4efed/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/88e370fb96e42b9bb3c5f1cf471452a0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9f2859f0888ed42231a29aa8fe1293a2/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0bd182c12bd5f1913b459e2ebf7b72c9/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d70a58f428ec44497a57940f8523fd37/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/042afb42bef69564f430e4798cae7222/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/385a797705d73b84420121f19159aa76/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/47c740cec34abf771bd25e2a9aacc671/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a6a43b61aca0d067d10a4f15e604dd27/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/1771c09e3f32a92db1906fb004f2b086/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/66d63c7b88bf62db2805918ba86e84b5/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9fc99077f17cfaafd01766694651a57d/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8ecc60b6b6a3e0bc4295a43a5d9ee9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/286423e494e59336a7f0c711eb6866d4/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ccddfe502527d0cda97fa7958f0be31c/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/167326ca993bc0954dd3ffa0818bc117/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0b1fcec2419e89cd3adb2e1fc0b861be/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/b309d03e9aace7d87eb55df95efcdc18/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d29eeb087da5d005cf6fb3f381cc7fa0/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/86d8761f6f82c93b06f05ad0ecbccddf/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/5176b965e1c2eb1ac3e2210b2fee7fe2/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.media.media-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/46110be0541376e9f4e15c3f613275de/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/22f119ac726dae70e8ef34a0419bcb75/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/df7d445b5caa1e73e7f74137540fba17/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/e569b3d6a82a4b5304d9575dfb400429/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ac9a9743d75ff5590dcc9c58083eaed9/AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/3bb5069bd4317268e40385f64df6814d/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8f896365343925aef58082417ac7439c/AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a84c280c7197d1643e8ea32669750026/AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/be1a8765824a30a031bb48e99d8bf99e/AndroidManifest.xml:17:1-22:12
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:2:1-13:12
+MERGED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:21:1-35:12
+MERGED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:21:1-40:12
+MERGED from [:com.facebook.android.facebook-gamingservices-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/35d40baa766fe5a514b8031f17aca703/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-login-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4c89f2a887226a691ef51ea99d9f25ed/AndroidManifest.xml:21:1-31:12
+MERGED from [:com.facebook.android.facebook-share-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/59a2e90d261bcbddb8113412382113d4/AndroidManifest.xml:21:1-31:12
+MERGED from [:facebook-android-wrapper-7.21.2:] /Users/carx/.gradle/caches/transforms-2/files-2.1/67657cde855713bb2dde22ae3fc2b9ce/AndroidManifest.xml:21:1-30:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:70-119
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:120-166
+	android:versionCode
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:3:167-207
+supports-screens
+ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:3-163
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-17:40
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-17:40
+	android:largeScreens
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:5:3-83
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-110:19
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:5-110:19
+MERGED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:24:5-89
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a84c280c7197d1643e8ea32669750026/AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a84c280c7197d1643e8ea32669750026/AndroidManifest.xml:24:5-25:19
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:11:5-20
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:11:5-20
+MERGED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:23:3-34:17
+MERGED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:23:3-34:17
+MERGED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:23:3-39:17
+MERGED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:23:3-39:17
+MERGED from [:com.facebook.android.facebook-gamingservices-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/35d40baa766fe5a514b8031f17aca703/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-gamingservices-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/35d40baa766fe5a514b8031f17aca703/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-login-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4c89f2a887226a691ef51ea99d9f25ed/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-login-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4c89f2a887226a691ef51ea99d9f25ed/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-share-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/59a2e90d261bcbddb8113412382113d4/AndroidManifest.xml:28:5-29:19
+MERGED from [:com.facebook.android.facebook-share-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/59a2e90d261bcbddb8113412382113d4/AndroidManifest.xml:28:5-29:19
+MERGED from [:facebook-android-wrapper-7.21.2:] /Users/carx/.gradle/caches/transforms-2/files-2.1/67657cde855713bb2dde22ae3fc2b9ce/AndroidManifest.xml:28:5-20
+MERGED from [:facebook-android-wrapper-7.21.2:] /Users/carx/.gradle/caches/transforms-2/files-2.1/67657cde855713bb2dde22ae3fc2b9ce/AndroidManifest.xml:28:5-20
+	android:supportsRtl
+		ADDED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:28:18-44
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:debuggable
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:9-34
+	android:icon
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml:5:49-80
+	android:theme
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:9-67
+uses-sdk
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/11ae5caf55ef1cf94bfd5d41336146ba/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.activity.activity-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/11ae5caf55ef1cf94bfd5d41336146ba/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/754eb7f7098c2dd8de4d81e9ecd9f273/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/754eb7f7098c2dd8de4d81e9ecd9f273/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4f1359ef0a0a9b6a9c70328087c4efed/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.appcompat.appcompat-resources-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4f1359ef0a0a9b6a9c70328087c4efed/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/88e370fb96e42b9bb3c5f1cf471452a0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/88e370fb96e42b9bb3c5f1cf471452a0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9f2859f0888ed42231a29aa8fe1293a2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9f2859f0888ed42231a29aa8fe1293a2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0bd182c12bd5f1913b459e2ebf7b72c9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0bd182c12bd5f1913b459e2ebf7b72c9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d70a58f428ec44497a57940f8523fd37/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cardview.cardview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d70a58f428ec44497a57940f8523fd37/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/042afb42bef69564f430e4798cae7222/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/042afb42bef69564f430e4798cae7222/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/40ca7b0a0f34f0fc365a84bf1a7cc0aa/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/385a797705d73b84420121f19159aa76/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/385a797705d73b84420121f19159aa76/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/47c740cec34abf771bd25e2a9aacc671/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/47c740cec34abf771bd25e2a9aacc671/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a6a43b61aca0d067d10a4f15e604dd27/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a6a43b61aca0d067d10a4f15e604dd27/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/1771c09e3f32a92db1906fb004f2b086/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/1771c09e3f32a92db1906fb004f2b086/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/66d63c7b88bf62db2805918ba86e84b5/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/66d63c7b88bf62db2805918ba86e84b5/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9fc99077f17cfaafd01766694651a57d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/9fc99077f17cfaafd01766694651a57d/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8ecc60b6b6a3e0bc4295a43a5d9ee9ee/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8ecc60b6b6a3e0bc4295a43a5d9ee9ee/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/286423e494e59336a7f0c711eb6866d4/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/286423e494e59336a7f0c711eb6866d4/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ccddfe502527d0cda97fa7958f0be31c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-v4-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ccddfe502527d0cda97fa7958f0be31c/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/167326ca993bc0954dd3ffa0818bc117/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/167326ca993bc0954dd3ffa0818bc117/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0b1fcec2419e89cd3adb2e1fc0b861be/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/0b1fcec2419e89cd3adb2e1fc0b861be/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/b309d03e9aace7d87eb55df95efcdc18/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/b309d03e9aace7d87eb55df95efcdc18/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d29eeb087da5d005cf6fb3f381cc7fa0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d29eeb087da5d005cf6fb3f381cc7fa0/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/86d8761f6f82c93b06f05ad0ecbccddf/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/86d8761f6f82c93b06f05ad0ecbccddf/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/5176b965e1c2eb1ac3e2210b2fee7fe2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/5176b965e1c2eb1ac3e2210b2fee7fe2/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/46110be0541376e9f4e15c3f613275de/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.media.media-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/46110be0541376e9f4e15c3f613275de/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/22f119ac726dae70e8ef34a0419bcb75/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/22f119ac726dae70e8ef34a0419bcb75/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/df7d445b5caa1e73e7f74137540fba17/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.savedstate.savedstate-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/df7d445b5caa1e73e7f74137540fba17/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/e569b3d6a82a4b5304d9575dfb400429/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/e569b3d6a82a4b5304d9575dfb400429/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ac9a9743d75ff5590dcc9c58083eaed9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/ac9a9743d75ff5590dcc9c58083eaed9/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/3bb5069bd4317268e40385f64df6814d/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/3bb5069bd4317268e40385f64df6814d/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8f896365343925aef58082417ac7439c/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.vectordrawable.vectordrawable-animated-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/8f896365343925aef58082417ac7439c/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a84c280c7197d1643e8ea32669750026/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/a84c280c7197d1643e8ea32669750026/AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/be1a8765824a30a031bb48e99d8bf99e/AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/be1a8765824a30a031bb48e99d8bf99e/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:5:5-7:41
+MERGED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-applinks-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/38ca8529ede724cbb5d4b1548c309e56/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:22:3-72
+MERGED from [:com.facebook.android.facebook-gamingservices-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/35d40baa766fe5a514b8031f17aca703/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-gamingservices-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/35d40baa766fe5a514b8031f17aca703/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-login-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4c89f2a887226a691ef51ea99d9f25ed/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-login-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/4c89f2a887226a691ef51ea99d9f25ed/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-share-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/59a2e90d261bcbddb8113412382113d4/AndroidManifest.xml:24:5-26:41
+MERGED from [:com.facebook.android.facebook-share-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/59a2e90d261bcbddb8113412382113d4/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-7.21.2:] /Users/carx/.gradle/caches/transforms-2/files-2.1/67657cde855713bb2dde22ae3fc2b9ce/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-wrapper-7.21.2:] /Users/carx/.gradle/caches/transforms-2/files-2.1/67657cde855713bb2dde22ae3fc2b9ce/AndroidManifest.xml:24:5-26:41
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/carx/Desktop/Solitare1/launcher/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:5-31:36
+	android:required
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:9-60:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-51
+	android:label
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:44:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:13-194
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:42:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:51:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:54:13-56:40
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:56:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:55:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:57:13-59:40
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:59:17-37
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:58:17-53
+activity#com.facebook.unity.FBUnityLoginActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:61:9-64:86
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:63:13-170
+	android:theme
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:64:13-83
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:62:13-67
+activity#com.facebook.unity.FBUnityDialogsActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:65:9-68:86
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:67:13-170
+	android:theme
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:68:13-83
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:66:13-69
+activity#com.facebook.unity.FBUnityGamingServicesFriendFinderActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:69:9-72:86
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:71:13-170
+	android:theme
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:72:13-83
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:70:13-88
+activity#com.facebook.unity.FBUnityAppLinkActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:73:9-75:39
+	android:exported
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:74:13-69
+activity#com.facebook.unity.FBUnityDeepLinkingActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:76:9-78:39
+	android:exported
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:77:13-73
+activity#com.facebook.unity.FBUnityGameRequestActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:9-82
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:79:19-79
+activity#com.facebook.unity.FBUnityCreateGameGroupActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:9-86
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:80:19-83
+activity#com.facebook.unity.FBUnityJoinGameGroupActivity
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:9-84
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:81:19-81
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:83:9-85:49
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:85:13-46
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:84:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:86:9-88:36
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:88:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:87:13-68
+meta-data#com.facebook.sdk.AdvertiserIDCollectionEnabled
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:89:9-91:36
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:91:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:90:13-74
+provider#com.facebook.FacebookContentProvider
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:93:9-96:39
+	android:authorities
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:95:13-90
+	android:exported
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:96:13-36
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:94:13-64
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:98:9-100:33
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:100:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:99:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:101:9-103:36
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:103:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:102:13-47
+meta-data#notch.config
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:104:9-106:50
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:106:13-47
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:105:13-40
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:107:9-109:68
+	android:value
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:109:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/carx/Desktop/Solitare1/unityLibrary/build/intermediates/library_manifest/debug/AndroidManifest.xml:108:13-42
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [:com.android.installreferrer.installreferrer-1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/d4704a15ee4e336e2f80b0f4caae9a51/AndroidManifest.xml:9:22-107
+activity#com.facebook.FacebookActivity
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:24:5-197
+	android:configChanges
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:24:60-143
+	android:theme
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:24:144-194
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:24:15-59
+activity#com.facebook.CustomTabMainActivity
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:25:15-64
+activity#com.facebook.CustomTabActivity
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:26:5-33:16
+	tools:node
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:26:85-103
+	android:exported
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:26:61-84
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:26:15-60
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.StarkovGames.TheSecretLifeOfAvocado+data:scheme:fbconnect
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:27:7-32:23
+action#android.intent.action.VIEW
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:28:9-61
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:28:17-58
+category#android.intent.category.DEFAULT
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:29:19-65
+category#android.intent.category.BROWSABLE
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:30:9-70
+	android:name
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:30:19-67
+data
+ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:31:9-103
+	android:host
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:31:15-73
+	android:scheme
+		ADDED from [:com.facebook.android.facebook-common-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/23c6aaa44122bbd11a8a60d840dd9be4/AndroidManifest.xml:31:74-100
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:33:5-183
+	android:authorities
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:33:73-155
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:33:156-180
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:33:15-72
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:34:5-38:16
+	android:exported
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:34:89-113
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:34:15-88
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:35:7-37:23
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:36:9-87
+	android:name
+		ADDED from [:com.facebook.android.facebook-core-7.1.0:] /Users/carx/.gradle/caches/transforms-2/files-2.1/32dcc0b96320cdcddd3cd6e341fefaba/AndroidManifest.xml:36:17-84

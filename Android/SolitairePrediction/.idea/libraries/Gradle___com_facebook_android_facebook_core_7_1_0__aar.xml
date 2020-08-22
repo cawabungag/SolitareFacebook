@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :com.facebook.android.facebook-core-7.1.0:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/917d690c066210f072967f05adb07740/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/917d690c066210f072967f05adb07740/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/917d690c066210f072967f05adb07740/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

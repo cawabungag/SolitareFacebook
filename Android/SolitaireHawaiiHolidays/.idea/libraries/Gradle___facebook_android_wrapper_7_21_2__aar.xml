@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :facebook-android-wrapper-7.21.2:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f3012cff5e737a927c2330a12ef6fa/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f3012cff5e737a927c2330a12ef6fa/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/02f3012cff5e737a927c2330a12ef6fa/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

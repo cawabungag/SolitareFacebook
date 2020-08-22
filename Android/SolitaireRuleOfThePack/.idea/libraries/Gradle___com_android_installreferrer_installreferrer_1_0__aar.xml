@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: :com.android.installreferrer.installreferrer-1.0:@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01baa59a60ad700106aad6a95c64508a/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01baa59a60ad700106aad6a95c64508a/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01baa59a60ad700106aad6a95c64508a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/01baa59a60ad700106aad6a95c64508a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

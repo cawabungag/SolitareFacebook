@@ -1,0 +1,4 @@
+#Sat Aug 22 14:27:33 MSK 2020
+base.0=/Users/carx/Desktop/SolitaireGangsterStory/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
